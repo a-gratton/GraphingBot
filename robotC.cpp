@@ -1,5 +1,5 @@
-#include "EV3Servo-lib-UW.c"
-#include "PC_FileIO.c"
+#include "EV3Servo-lib-UW.c" //library for controlling servo motors
+#include "PC_FileIO.c"		 //library for file I/O with robotC
 
 /* 
 	Note that the majority of the while loops in this code contain
