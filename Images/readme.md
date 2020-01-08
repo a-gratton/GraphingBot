@@ -1,1 +1,1 @@
-This folder includes images and videos of the graphingbot operation.
+This folder includes images and videos of the GraphingBot operation.
