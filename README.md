@@ -10,6 +10,6 @@ This project was created collaboratively with Kevin Gu and Aidan Gratton.
 - Ultrasonic sensor to keep track of the robot's distance from the wall as a safety feature
 - Implemented erasing as well as plotting on the board
 
-**Check out --Images-- folder to see how GraphingBot looks like and operates**
+**Check out Images folder to see how GraphingBot looks like and operates**
 
 Note that some software libraries for the robotC code have not been included, as I do not own the rights to distribute them.
