@@ -12,4 +12,4 @@ This project was created collaboratively with Kevin Gu and Aidan Gratton.
 
 **Check out Images folder to see how GraphingBot looks like and operates!**
 
-Note that some software libraries for the robotC code have not been included, as I do not own the rights to distribute them.
+Note that some software libraries for the RobotC code have been excluded, as I don't own the rights to distribute them.
