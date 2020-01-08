@@ -8,7 +8,7 @@ This project was created collaboratively with Kevin Gu and Aidan Gratton.
 - Limit switches allowing consistent coordinate tracking
 - Movable pulley system to lift the end effector
 - Ultrasonic sensor to keep track of the robot's distance from the wall as a safety feature
-- Implemented erasing as well as plotting on the board
+- Implemented erasing as well as plotting
 
 **Check out Images folder to see how GraphingBot looks like and operates!**
 
