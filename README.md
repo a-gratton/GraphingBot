@@ -3,12 +3,12 @@ Code written in C++ and RobotC for a first year design project, which allowed a 
 This project was created collaboratively with Kyle Hong and Kevin Gu.
 
 # Features
-- Inputting any number of arbitrary polynomial terms in any order that the user desires
-- Parsing and generating path planning file for the robot to plot it on the white board
+- Can accept, parse, and simplify input of any number of arbitrary polynomial terms in any order that the user desires
+- Capable of generating a plotting instruction file for any mathematical function
 - Limit switches allowing consistent coordinate tracking
 - Movable pulley system to lift the end effector
-- Ultrasonic sensor to keep track of the robot's distance from the wall as a safety feature
-- Implemented erasing as well as plotting
+- Ultrasonic sensor keeps track of the robot's distance from the wall as a safety feature
+- Robot can both plot and erase the whiteboard.
 
 **Check out Images folder to see how GraphingBot looks like and operates!**
 
