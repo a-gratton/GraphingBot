@@ -13,8 +13,10 @@ This project was created collaboratively with Kevin Gu and Aidan Gratton.
 # Flowcharts
 
 ![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/C%2B%2BFlowChart.png)
+C++ input parsing and path finding algorithm flowchart
 
 ![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/RobotCFlowChart.png)
+RobotC sensor, file, actuator interfacing algorithm flowchart
 
 **Check out Images folder to see the GraphingBot operation video!**
 
