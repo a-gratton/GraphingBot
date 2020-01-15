@@ -11,8 +11,8 @@ This project was created collaboratively with Kevin Gu and Aidan Gratton.
 - Implemented erasing as well as plotting
 
 # Flowcharts
-![alt text] (https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/C%2B%2B.pdf)
-![alt text] (https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/RobotC.pdf)
+![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/C%2B%2B.pdf)
+![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/RobotC.pdf)
 
 **Check out Images folder to see the GraphingBot operation video!**
 
