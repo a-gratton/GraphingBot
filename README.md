@@ -10,6 +10,17 @@ This project was created collaboratively with Kyle Hong and Kevin Gu.
 - Ultrasonic sensor keeps track of the robot's distance from the wall as a safety feature
 - Robot can both plot and erase the whiteboard.
 
-**Check out Images folder to see how GraphingBot looks like and operates!**
+# Flowcharts
+
+![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/C%2B%2BFlowChart.png)
+C++ input parsing and path finding algorithm flowchart
+
+![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/RobotCFlowChart.png)
+
+RobotC sensor, file, actuator interfacing algorithm flowchart
+
+**Check out Images folder to see the GraphingBot operation video!**
+
+![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Images/IMG_1458.JPG)
 
 Note that some software libraries for the RobotC code have been excluded, as I don't own the rights to distribute them.
