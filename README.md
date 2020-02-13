@@ -17,9 +17,9 @@ C++ input parsing and path finding algorithm flowchart
 
 ![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Flowcharts/RobotCFlowChart.png)
 
-RobotC sensor, file, actuator interfacing algorithm flowchart
+RobotC sensor, file, and actuator interfacing algorithm flowchart
 
-**Check out Images folder to see the GraphingBot operation video!**
+**Check out the Images folder to see the GraphingBot in action!**
 
 ![alt text](https://github.com/Scotrus/GraphingBot/blob/master/Images/IMG_1458.JPG)
 
