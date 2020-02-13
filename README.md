@@ -1,6 +1,6 @@
 # GraphingBot
 Code written in C++ and RobotC for a first year design project, which allowed a robot to plot functions on a whiteboard.
-This project was created collaboratively with Kyle Hong and Kevin Gu.
+This project was created collaboratively with [Kyle Hong](https://github.com/Scotrus) and [Kevin Gu](https://github.com/kevingu-01).
 
 # Features
 - Can accept, parse, and simplify input of any number of arbitrary polynomial terms in any order that the user desires
